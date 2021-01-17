@@ -1,5 +1,20 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "id": 1,
+      "message": "fixed sorted",
+      "tech": "Sam Smith",
+      "attention": false,
+      "date": "2021-01-17T12:55:21.870Z"
+    },
+    {
+      "id": 2,
+      "message": "new issue asap",
+      "tech": "Sam Smith",
+      "attention": true,
+      "date": "2021-01-17T12:55:13.457Z"
+    }
+  ],
   "techs": [
     {
       "id": 1,
