@@ -23,6 +23,7 @@ const AddTechModal = ({ addTechs, tech: { tech, loading } }) => {
         firstName,
         lastName,
       });
+      M.toast({ html: `${firstName} ${lastName} was added as a tech` });
     }
   };
   return (
